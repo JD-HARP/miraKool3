@@ -1,6 +1,8 @@
 # miraKool3
 'TIS here
-
+> abandon
+> all hope
+> che voi entrate
 ## this is my readme
 *this is italics
 **this is bold?
