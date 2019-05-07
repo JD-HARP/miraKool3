@@ -1,15 +1,15 @@
 # miraKool3
-images?
+'TIS here
 
 ## this is my readme
 *this is italics
 **this is bold?
 ##oh bold you say, sir?
-<tag> i tagged you it Mr. Bit
-		<img src="https://media.giphy.com/media/1xncBaM1fX3Yj12hOk/giphy.gif">
-		1. now I shall start counting
-			2. indent and count
-			###### what are you trying to prove?
-				(../assets/uml/modules-system.png?raw=true)
-<img src="">
-<abandon></allhope>
+<i tagged you it Mr. bit></yet I think not, Descartes> *he disappears* i tagged you it Mr. Bit
+<img src="https://media.giphy.com/media/1xncBaM1fX3Yj12hOk/giphy.gif">
+1. now I shall start counting
+2. indent and count<abandon></allhope>
+##what are you trying to prove?
+<abandon></allhope>				
+
+
